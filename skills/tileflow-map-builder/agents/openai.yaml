@@ -1,0 +1,6 @@
+interface:
+  display_name: 'Tileflow Map Builder'
+  short_description: 'Add, restyle, and verify Tileflow maps'
+  default_prompt: 'Use $tileflow-map-builder to add the map to this application and verify the result.'
+policy:
+  allow_implicit_invocation: true

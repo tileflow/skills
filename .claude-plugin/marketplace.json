@@ -1,0 +1,13 @@
+{
+  "name": "tileflow-skills",
+  "owner": {
+    "name": "Tileflow"
+  },
+  "plugins": [
+    {
+      "name": "tileflow",
+      "source": "./",
+      "description": "Add, restyle, and verify Tileflow maps from your coding agent."
+    }
+  ]
+}

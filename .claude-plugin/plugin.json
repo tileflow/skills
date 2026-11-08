@@ -1,0 +1,13 @@
+{
+  "name": "tileflow",
+  "version": "0.1.0",
+  "description": "Add, restyle, and verify Tileflow maps from your coding agent.",
+  "author": {
+    "name": "Tileflow",
+    "url": "https://tileflow.dev"
+  },
+  "homepage": "https://tileflow.dev/docs/get-started/build-with-ai",
+  "repository": "https://github.com/tileflow/skills",
+  "license": "Apache-2.0",
+  "keywords": ["tileflow", "maps", "maplibre", "geospatial", "vector-tiles"]
+}
