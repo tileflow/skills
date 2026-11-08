@@ -3,6 +3,9 @@
   "owner": {
     "name": "Tileflow"
   },
+  "metadata": {
+    "description": "Official Tileflow skills for coding agents."
+  },
   "plugins": [
     {
       "name": "tileflow",
