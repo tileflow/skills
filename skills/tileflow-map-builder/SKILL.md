@@ -4,7 +4,7 @@ description: Add, restyle, and verify Tileflow maps in a repository. Use for map
 license: Apache-2.0
 compatibility: Requires Node.js 22 or newer, a package manager, and network access to tileflow.dev, api.tileflow.dev, and the npm registry.
 metadata:
-  revision: '2026-11-08.1'
+  revision: '2026-11-08.2'
 ---
 
 # Tileflow Map Builder
@@ -65,6 +65,8 @@ theme for Streets, read the installed exports of `@tileflow/maps` and the themes
   (React, Vue, or Svelte) plus the matching build integration, so read that framework's guide and
   the Markers and popups guide before choosing a stack. For a project with no framework, pick the
   smallest supported one.
+- For a common request, start from [recipes](references/recipes.md). Before adding Search, Routing,
+  Elevation, GeoIP, Static Maps, or Coordinates, read [services](references/services.md).
 - Add a named scene for each view worth reviewing, and use it for preview and capture.
 - Verify an application through its own development server. Do not build a second viewer to review
   the same map.
