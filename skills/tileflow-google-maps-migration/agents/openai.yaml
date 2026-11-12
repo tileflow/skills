@@ -1,0 +1,6 @@
+interface:
+  display_name: "Migrate Google Maps to Tileflow"
+  short_description: "Migrate a Google Maps JavaScript app to Tileflow"
+  default_prompt: "Use $tileflow-google-maps-migration to migrate this Google Maps app to Tileflow and verify its markers and services."
+policy:
+  allow_implicit_invocation: true

@@ -6,6 +6,8 @@ Agent Skills for building maps with [Tileflow](https://tileflow.dev).
 | --- | --- |
 | [`tileflow-map-builder`](skills/tileflow-map-builder/SKILL.md) | Adds, restyles, and verifies Tileflow maps in a repository. |
 | [`tileflow-spatial-analysis`](skills/tileflow-spatial-analysis/SKILL.md) | Answers spatial questions about your data with Turf or DuckDB and shows the result on a Tileflow map. |
+| [`tileflow-mapbox-migration`](skills/tileflow-mapbox-migration/SKILL.md) | Migrates a Mapbox GL JS, MapLibre GL JS, or MapTiler SDK JS map to Tileflow. |
+| [`tileflow-google-maps-migration`](skills/tileflow-google-maps-migration/SKILL.md) | Migrates a Google Maps JavaScript app to Tileflow, including its coordinates, overlays, and services. |
 
 ## Install
 
