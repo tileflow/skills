@@ -1,0 +1,6 @@
+interface:
+  display_name: "Migrate a GL JS Map to Tileflow"
+  short_description: "Migrate Mapbox, MapLibre, or MapTiler web maps"
+  default_prompt: "Use $tileflow-mapbox-migration to migrate this GL JS map to Tileflow and verify it in the app."
+policy:
+  allow_implicit_invocation: true
