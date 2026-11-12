@@ -1,0 +1,6 @@
+interface:
+  display_name: 'Tileflow Spatial Analysis'
+  short_description: 'Answer spatial questions and map the result'
+  default_prompt: 'Use $tileflow-spatial-analysis to answer this question about our locations and show it on the map.'
+policy:
+  allow_implicit_invocation: true
